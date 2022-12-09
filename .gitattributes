@@ -1,3 +1,6 @@
+CitizAir/Library/** filter=lfs diff=lfs merge=lfs -text
+CitizAir/assets/** filter=lfs diff=lfs merge=lfs -text
+CitizAir/Packages/** filter=lfs diff=lfs merge=lfs -text
 <files[[:space:]]to[[:space:]]be[[:space:]]tracked> filter=lfs diff=lfs merge=lfs -text
 E:/Git/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 /Library/PackageCache/** filter=lfs diff=lfs merge=lfs -text
