@@ -13,8 +13,11 @@ MonoBehaviour:
   m_Name: NO2
   m_EditorClassIdentifier: 
   particleName: NO2
-  structureImage: {fileID: 21300000, guid: f008857e434b98b4eaabda1fd6af3059, type: 3}
-  formulaImage: {fileID: 21300000, guid: e36d1a38d7aa309409e80bf66a089330, type: 3}
-  descriptionText: ASAFASAIUGIUASIUASUGBASB
-  originImage: {fileID: 21300000, guid: 6fac4e39926fd9c4ca2ba4416160a857, type: 3}
-  effectImage: {fileID: 0}
+  structureImage: {fileID: 21300000, guid: 06542b26b445a9a4b9d358de7ff42863, type: 3}
+  formulaImage: {fileID: 21300000, guid: 8a225c30a924a0048b044232255bd559, type: 3}
+  descriptionText: 'Nitrogen dioxide is a chemical compound with the formula NO2.
+    It is one of several nitrogen oxides. NO2 is an intermediate in the industrial
+    synthesis of nitric acid, millions of tons of which are produced each year for
+    use primarily in the production of fertilizers. '
+  originImage: {fileID: 21300000, guid: dd2a590c8a4f61944b57e37aa2dd7fca, type: 3}
+  effectImage: {fileID: 21300000, guid: 13bf5e3f84b82d2409807004ca3ebced, type: 3}

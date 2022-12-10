@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58e88191eceb4dc47aa0fbad9d6bf4e9, type: 3}
+  m_Name: O3
+  m_EditorClassIdentifier: 
+  particleName: PM10
+  structureImage: {fileID: 21300000, guid: 250aa6c16eda6de40959d0d01f082c9e, type: 3}
+  formulaImage: {fileID: 21300000, guid: fcd81a29b2f35f94d856fc2656661d76, type: 3}
+  descriptionText: "Ozone (/\u02C8o\u028Azo\u028An/), or trioxygen, is an inorganic
+    molecule with the chemical formula O\r\n3. It is a pale blue gas with a distinctively
+    pungent smell. It is an allotrope of oxygen that is much less stable than the
+    diatomic allotrope O\r\n2, breaking down in the lower atmosphere to O\r\n2 (dioxygen).
+    Ozone is formed from dioxygen by the action of ultraviolet (UV) light and electrical
+    discharges within the Earth's atmosphere. "
+  originImage: {fileID: 21300000, guid: 1332230426d13da40b675a230bbac3b1, type: 3}
+  effectImage: {fileID: 21300000, guid: 3928c194e9442584c9abe5cf182aac2a, type: 3}

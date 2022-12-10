@@ -12,9 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58e88191eceb4dc47aa0fbad9d6bf4e9, type: 3}
   m_Name: CO2
   m_EditorClassIdentifier: 
-  particleName: CO2
-  structureImage: {fileID: 21300000, guid: 0fd00773717472341b3699857cb38512, type: 3}
-  formulaImage: {fileID: 21300000, guid: e36d1a38d7aa309409e80bf66a089330, type: 3}
-  descriptionText: ASAFASAIUGIUASIUASUGBASB
-  originImage: {fileID: 21300000, guid: 6fac4e39926fd9c4ca2ba4416160a857, type: 3}
-  effectImage: {fileID: 0}
+  particleName: CO
+  structureImage: {fileID: 21300000, guid: 77de534f007a6464eac29482069a8050, type: 3}
+  formulaImage: {fileID: 21300000, guid: 69e252099924e2748a2a98e8c32842d9, type: 3}
+  descriptionText: Carbon dioxide (CO2) is a chemical compound made up of two oxygen
+    atoms bonded to a single carbon atom. It is a gas at room temperature and is
+    colorless, odorless, and tasteless. CO2 is present in the Earth's atmosphere
+    at low concentrations, but it is an important greenhouse gas that helps regulate
+    the Earth's temperature. It is also a byproduct of the metabolic processes of
+    animals and the burning of fossil fuels.
+  originImage: {fileID: 21300000, guid: 1332230426d13da40b675a230bbac3b1, type: 3}
+  effectImage: {fileID: 21300000, guid: 3928c194e9442584c9abe5cf182aac2a, type: 3}
