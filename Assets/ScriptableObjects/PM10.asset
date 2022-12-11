@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PM10
   m_EditorClassIdentifier: 
   particleName: PM10
-  structureImage: {fileID: 0}
+  structureImage: {fileID: 21300000, guid: 36c4ce7421f29cb4ca6f7adccc3da59b, type: 3}
   formulaImage: {fileID: 21300000, guid: 66e7ddbfd6bb4f74fbf53a4bde980e1d, type: 3}
   descriptionText: PM10 refers to particulate matter with a diameter of 10 micrometers
     or less. These tiny particles are found in the air and can be inhaled into the
