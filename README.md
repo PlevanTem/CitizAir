@@ -5,6 +5,6 @@ This study explores how augmented reality (AR) affects engagement and learning a
 
 [First prototype by Figma](https://www.figma.com/file/yE8zL0NOIwTWJptH1lQtZU/AR-prototype?node-id=0%3A1&t=PaUSInIyLGcJQPEn-1)
      
-Prototyping showcase:
+Final Prototyping showcase:   
 https://user-images.githubusercontent.com/43092163/220175881-9231e1e9-1cfc-4e60-b3cf-04a6abc411e8.mp4
 
